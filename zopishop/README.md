@@ -1,6 +1,6 @@
 
-# React & Node Tutorial - Full ECommerce [2022]
-Welcome to my React and Node tutorial to build a simple functional e-commerce website. Open your code editor and follow me for the next hours to build an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
+# Full stack- Full ECommerce site with React [2022]
+Welcome to my React and Node simple functional e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
 
 
 ## You Will Learn
