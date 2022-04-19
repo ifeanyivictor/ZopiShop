@@ -1,2 +1,2 @@
 # ZopiShop
-fullstack online store built with react, node js, mongo db, redux
+Fullstack online store design & built with React, Redux, Mongo db.
